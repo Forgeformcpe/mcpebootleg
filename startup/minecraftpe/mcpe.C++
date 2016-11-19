@@ -1,0 +1,3 @@
+/loadgame
+/loadtextures
+/loadmods
