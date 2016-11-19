@@ -1,0 +1,5 @@
+~ $ gem install jekyll bundler
+~ $ jekyll new http://www.forgeformcpe.io
+~ $ cd http://www.forgeformcpe.io
+~/http://forgeformcpe.ok $ bundle exec jekyll serve
+# => Now browse to http://localhost:4000
