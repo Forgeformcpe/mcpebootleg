@@ -1,0 +1,4 @@
+.systemrequires
+sdcard0/games/minecraftpe
+/#import/js/modpkg/=mod
+/#import/zip/=texture
