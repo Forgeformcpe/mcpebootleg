@@ -1,0 +1,3 @@
+/installmcpemasterplugin
+/load
+/findresorces
